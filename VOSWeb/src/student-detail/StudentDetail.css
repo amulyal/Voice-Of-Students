@@ -1,0 +1,19 @@
+.student-container {
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  border-radius: 1px;
+  border-color: aqua;
+}
+.student-label {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: burlywood;
+}
+
+.student-value {
+  font-family: Lucida Sans;
+  font-style: italic;
+  color: rgb(0, 162, 255);
+}
